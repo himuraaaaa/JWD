@@ -1,6 +1,6 @@
 <?php 
 session_start();
-include 'template/header.php'; 
+include 'Template/header.php'; 
 ?>
 <div class="main-wrapper">
     <aside class="sidebar">
@@ -35,4 +35,4 @@ include 'template/header.php';
         <p>Mewujudkan bangunan impian Anda dengan teknologi terbaik dan tim profesional.</p>
     </main>
 </div>
-<?php include 'template/footer.php'; ?>
+<?php include 'Template/footer.php'; ?>

@@ -1,4 +1,4 @@
-<?php include 'template/header.php'; ?>
+<?php include 'Template/header.php'; ?>
 <main class="content">
     <h2>Profil</h2>
     <div class="profile-wrapper">
@@ -13,4 +13,4 @@
         terpercaya dan bernilai tinggi.
     </p>
 </main>
-<?php include 'template/footer.php'; ?>
+<?php include 'Template/footer.php'; ?>
